@@ -1,5 +1,5 @@
 ## Building
-- IT Director at [Volk Finance](https://www.linkedin.com/company/volk-finance/posts/?feedView=all)
+- IT Director at [Volk Finance](https://www.linkedin.com/company/volk-finance/posts/?feedView=all) 👨🏻‍💻
 - Responsible for translating business objectives into technical strategy 🎯
 - I develop smart automations with n8n and AI to streamline business processes and boost productivity ⚙️
 
@@ -8,4 +8,6 @@
 - Exploring AWS and Cloud concepts ☁️
 
 ## Connect
->linkedin
+[Linkedin]() 
+<br/><br/>
+>Seeking the difference between the usual and the extraordinary.
