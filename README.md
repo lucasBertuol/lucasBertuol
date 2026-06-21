@@ -7,4 +7,5 @@
 - Currently learning more about Linux, Python and version control with Git/GitHub 🐍
 - Exploring AWS and Cloud concepts ☁️
 <br/>
+
 >Seeking the difference between the usual and the extraordinary.
