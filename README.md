@@ -1,11 +1,6 @@
-### Building
-- IT Director at [Volk Finance](https://www.linkedin.com/company/volk-finance/posts/?feedView=all) 👨🏻‍💻
-- Responsible for translating business objectives into technical strategy 🎯
-- I develop smart automations with n8n and AI to streamline business processes and boost productivity ⚙️
-
 ### Learning
-- Currently learning more about Linux, Python and version control with Git/GitHub 🐍
-- Exploring AWS and Cloud concepts ☁️
+- Currently studying about DevOps culture and practices to boost developer productivity and drive organizational growth
+- Exploring AWS, Linux and Containers with Docker
 <br/>
 
 >Seeking the difference between the usual and the extraordinary.
